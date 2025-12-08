@@ -19,47 +19,5 @@
     "aiScore": 0.9,
     "source": "original",
     "createdAt": "2025-12-08T03:56:25.067Z"
-  },
-  {
-    "id": "doc_1765166167238",
-    "termText": "街道",
-    "category": "交通",
-    "tags": [
-      "街道",
-      "道路",
-      "汽车",
-      "电动车",
-      "隔离护栏",
-      "树木",
-      "路灯",
-      "黄昏"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/zxy-usually/image-host/main/uploads/交通/1765166153606_img.png",
-    "htmlUrl": "https://github.com/zxy-usually/image-host/blob/main/uploads/%E4%BA%A4%E9%80%9A/1765166153606_img.png",
-    "status": "approved",
-    "aiScore": 0.9,
-    "source": "original",
-    "createdAt": "2025-12-08T03:56:07.238Z"
-  },
-  {
-    "id": "doc_1765166161572",
-    "termText": "街道",
-    "category": "交通",
-    "tags": [
-      "街道",
-      "道路",
-      "汽车",
-      "电动车",
-      "隔离护栏",
-      "树木",
-      "路灯",
-      "黄昏"
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/zxy-usually/image-host/main/uploads/交通/1765166151216_img.png",
-    "htmlUrl": "https://github.com/zxy-usually/image-host/blob/main/uploads/%E4%BA%A4%E9%80%9A/1765166151216_img.png",
-    "status": "approved",
-    "aiScore": 0.9,
-    "source": "original",
-    "createdAt": "2025-12-08T03:56:01.572Z"
   }
 ]
