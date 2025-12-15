@@ -1,5 +1,27 @@
 [
   {
+    "id": "doc_1765793142598",
+    "termText": "课堂",
+    "category": "动作",
+    "tags": [
+      "教室",
+      "老师",
+      "学生",
+      "上课",
+      "讲座",
+      "投影屏幕",
+      "课桌",
+      "人物",
+      "学习"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/zxy-usually/image-host/main/uploads/动作/1765793137887_img.png",
+    "htmlUrl": "https://github.com/zxy-usually/image-host/blob/main/uploads/%E5%8A%A8%E4%BD%9C/1765793137887_img.png",
+    "status": "approved",
+    "aiScore": 1,
+    "source": "original",
+    "createdAt": "2025-12-15T10:05:42.598Z"
+  },
+  {
     "id": "doc_1765766787249",
     "termText": "鸽子",
     "category": "动物",
