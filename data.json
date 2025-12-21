@@ -1,5 +1,26 @@
 [
   {
+    "id": "doc_1766315467348",
+    "termText": "面条",
+    "category": "食物",
+    "tags": [
+      "米粉",
+      "汤面",
+      "筷子",
+      "葱油饼",
+      "主食",
+      "肉片",
+      "蔬菜",
+      "一餐"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/zxy-usually/image-host/main/uploads/食物/1766315463215_img.png",
+    "htmlUrl": "https://github.com/zxy-usually/image-host/blob/main/uploads/%E9%A3%9F%E7%89%A9/1766315463215_img.png",
+    "status": "approved",
+    "aiScore": 0.9,
+    "source": "original",
+    "createdAt": "2025-12-21T11:11:07.348Z"
+  },
+  {
     "id": "doc_1765793142598",
     "termText": "课堂",
     "category": "动作",
